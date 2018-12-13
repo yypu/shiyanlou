@@ -1,2 +1,0 @@
-# shiyanlou
-exercises in shiyanlou
